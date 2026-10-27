@@ -1,0 +1,16 @@
+{
+  "name": "dynamicmodules",
+  "version": "1.0.0",
+  "description": "An easy to use hotswap for node.js modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hotswap", "hot", "swap", "node", "dynamic", "module", "reload", "load"],
+  "author": "itsmenatika",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.5"
+  }
+}

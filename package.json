@@ -12,5 +12,22 @@
   "type": "module",
   "devDependencies": {
     "@types/node": "^26.6.5"
+  },
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/itsmenatika/dynamicimports",
+  "bugs": {
+    "url": "https://github.com/itsmenatika/dynamicimports/issues",
+    "email": "itsmenatika@gmail.com"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/itsmenatika"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmenatika/dynamicimports.git"
   }
 }

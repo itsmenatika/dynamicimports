@@ -1,5 +1,5 @@
 {
-  "name": "dynamicmodules",
+  "name": "easymodules",
   "version": "1.0.0",
   "description": "An easy to use hotswap for node.js modules",
   "scripts": {

@@ -2,7 +2,6 @@
   "name": "dynamicmodules",
   "version": "1.0.0",
   "description": "An easy to use hotswap for node.js modules",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
